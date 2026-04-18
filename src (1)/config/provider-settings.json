@@ -1,0 +1,7 @@
+{
+  "notificationMode": "mock",
+  "voiceProvider": "twilio",
+  "smsWebhookUrl": "",
+  "voiceWebhookUrl": "",
+  "senderName": "AgroAI Weather"
+}
